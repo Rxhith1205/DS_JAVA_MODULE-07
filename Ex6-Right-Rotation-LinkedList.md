@@ -1,5 +1,4 @@
 # Ex6 Right Rotation LinkedList
-
 ## AIM:
 To write a Java  program to:
 Create a singly linked list.
@@ -28,13 +27,12 @@ Break the circular connection.
 
 9. Display the rotated list.
 10. Stop the program.
-  
 ## Program:
 ```
 /*
 Program to  Right Rotation LinkedList
-Developed by: ROHITH HARIHARAN M
-RegisterNumber: 212223220087
+Developed by: Rohith hariharan M
+RegisterNumber:  212223220087
 */
 import java.util.Scanner;
 
@@ -128,12 +126,13 @@ public class RightRotationLinkedList {
         sc.close();
     }
 }
+
 ```
 
 ## Output:
 
-<img width="571" height="232" alt="image" src="https://github.com/user-attachments/assets/8072a993-dd5b-4420-ab99-e785cae1316a" />
+<img width="571" height="232" alt="image" src="https://github.com/user-attachments/assets/54f22075-7d8a-4b56-b651-2fce78d7dc2f" />
 
 
 ## Result:
-Thus, the java program to perfom right rotation on linked list is implemented successfully.
+Thus, the C program to perfom right rotation on linked list is implemented successfully.
